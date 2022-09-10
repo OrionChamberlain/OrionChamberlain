@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OrionChamberlain
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning IT management
-- 💞️ I’m looking to collaborate on AI and cyber security
+- 💞️ I’m looking to collaborate on AI and cyber security along with Java development
 - 📫 How to reach me by email
 
 <!---
